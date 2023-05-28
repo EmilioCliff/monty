@@ -1,0 +1,1 @@
+LIFO n FIFO
